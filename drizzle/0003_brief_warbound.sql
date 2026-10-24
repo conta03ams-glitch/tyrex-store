@@ -1,0 +1,1 @@
+CREATE INDEX `reviews_product_created` ON `product_reviews` (`product_id`,`created_at`);

@@ -1,0 +1,9 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {reviewInput,validReviewPhoto,purchasedProduct} from '../lib/reviews.ts';
+import {initialProducts} from '../lib/catalog.ts';
+import fs from 'node:fs';
+test('notas, comentário e nome público são validados sem inserir avaliações artificiais',()=>{for(const rating of [0,6,1.5,NaN,'abc'])assert.throws(()=>reviewInput({rating,comment:'Gostei do produto',name:'Cliente'}));for(const comment of ['', 'ab','x'.repeat(2001)])assert.throws(()=>reviewInput({rating:5,comment,name:'Cliente'}));assert.deepEqual(reviewInput({rating:'4',comment:'  Boa experiência  ',name:'  Cliente  '}),{rating:4,comment:'Boa experiência',name:'Cliente'});});
+test('foto recusa SVG, arquivo grande e imagem fora do formato permitido',()=>{assert.equal(validReviewPhoto(new TextEncoder().encode('<svg onload="alert(1)"></svg>')),false);assert.equal(validReviewPhoto(new Uint8Array(2*1024*1024+1)),false);assert.equal(validReviewPhoto(new Uint8Array([255,216,255,224,0,1,2,3,4,5,6,7])),true);});
+test('compra verificada depende do produto realmente contido no pedido',()=>{assert.equal(purchasedProduct(JSON.stringify([{productId:'zimo-rage-android'}]),'zimo-rage-ios'),false);assert.equal(purchasedProduct(JSON.stringify([{productId:'zimo-rage-android'}]),'zimo-rage-android'),true);assert.equal(purchasedProduct('invalid','zimo'),false);});
+test('Zimo recebe as três capturas reais; os demais produtos preservam galeria própria',()=>{for(const p of initialProducts){assert.ok(p.gallery?.includes(p.image));for(const src of p.gallery||[])assert.ok(fs.existsSync('public'+src));}for(const id of ['zimo-rage-android','zimo-rage-ios','zimo-emulador']){const p=initialProducts.find(p=>p.id===id);assert.equal(p.gallery.length,4);assert.ok(p.gallery.slice(1).every(x=>x.startsWith('/assets/galleries/zimo/')));}});

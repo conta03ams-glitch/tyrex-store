@@ -1,0 +1,405 @@
+{
+  "source": "owner-reported",
+  "precision": "estimate",
+  "scope": "partial-period",
+  "periodStart": null,
+  "periodEnd": null,
+  "products": {
+    "golds": {
+      "sold": 342,
+      "reviews": 294,
+      "stars": [
+        0,
+        1,
+        0,
+        16,
+        277
+      ]
+    },
+    "dll-android": {
+      "sold": 318,
+      "reviews": 280,
+      "stars": [
+        0,
+        1,
+        0,
+        12,
+        267
+      ]
+    },
+    "dll-emulador": {
+      "sold": 287,
+      "reviews": 220,
+      "stars": [
+        0,
+        0,
+        2,
+        19,
+        199
+      ]
+    },
+    "dll-ios": {
+      "sold": 224,
+      "reviews": 188,
+      "stars": [
+        0,
+        1,
+        2,
+        11,
+        174
+      ]
+    },
+    "xskinchanger-android": {
+      "sold": 331,
+      "reviews": 302,
+      "stars": [
+        0,
+        1,
+        1,
+        18,
+        282
+      ]
+    },
+    "xskinchanger-emulador": {
+      "sold": 302,
+      "reviews": 232,
+      "stars": [
+        1,
+        0,
+        0,
+        15,
+        216
+      ]
+    },
+    "xskinchanger-ios": {
+      "sold": 193,
+      "reviews": 154,
+      "stars": [
+        1,
+        1,
+        0,
+        14,
+        138
+      ]
+    },
+    "xcheat-android": {
+      "sold": 325,
+      "reviews": 272,
+      "stars": [
+        1,
+        0,
+        2,
+        16,
+        253
+      ]
+    },
+    "xcheat-emulador": {
+      "sold": 294,
+      "reviews": 252,
+      "stars": [
+        1,
+        0,
+        2,
+        11,
+        238
+      ]
+    },
+    "xcheat-ios": {
+      "sold": 187,
+      "reviews": 162,
+      "stars": [
+        1,
+        0,
+        0,
+        16,
+        145
+      ]
+    },
+    "plutonium": {
+      "sold": 256,
+      "reviews": 206,
+      "stars": [
+        1,
+        1,
+        0,
+        14,
+        190
+      ]
+    },
+    "zimo-rage-android": {
+      "sold": 276,
+      "reviews": 211,
+      "stars": [
+        1,
+        0,
+        2,
+        18,
+        190
+      ]
+    },
+    "zimo-rage-ios": {
+      "sold": 174,
+      "reviews": 146,
+      "stars": [
+        0,
+        0,
+        1,
+        10,
+        135
+      ]
+    },
+    "zimo-emulador": {
+      "sold": 243,
+      "reviews": 228,
+      "stars": [
+        0,
+        1,
+        0,
+        13,
+        214
+      ]
+    },
+    "tyrex-rage-ap-android": {
+      "sold": 265,
+      "reviews": 193,
+      "stars": [
+        1,
+        1,
+        1,
+        9,
+        181
+      ]
+    },
+    "tyrex-rage-ap-emulador": {
+      "sold": 211,
+      "reviews": 194,
+      "stars": [
+        1,
+        0,
+        2,
+        15,
+        176
+      ]
+    },
+    "tyrex-rage-ap-ios": {
+      "sold": 156,
+      "reviews": 143,
+      "stars": [
+        1,
+        0,
+        1,
+        7,
+        134
+      ]
+    },
+    "astral": {
+      "sold": 228,
+      "reviews": 202,
+      "stars": [
+        1,
+        1,
+        2,
+        14,
+        184
+      ]
+    },
+    "bypass-android": {
+      "sold": 198,
+      "reviews": 152,
+      "stars": [
+        0,
+        1,
+        0,
+        14,
+        137
+      ]
+    },
+    "bypass-emulador": {
+      "sold": 182,
+      "reviews": 166,
+      "stars": [
+        0,
+        0,
+        2,
+        12,
+        152
+      ]
+    },
+    "bypass-ios": {
+      "sold": 121,
+      "reviews": 89,
+      "stars": [
+        1,
+        1,
+        2,
+        5,
+        80
+      ]
+    },
+    "skinchanger-cs2": {
+      "sold": 189,
+      "reviews": 159,
+      "stars": [
+        0,
+        0,
+        2,
+        16,
+        141
+      ]
+    },
+    "conta-c-premier": {
+      "sold": 237,
+      "reviews": 210,
+      "stars": [
+        1,
+        0,
+        1,
+        15,
+        193
+      ]
+    },
+    "radar-web": {
+      "sold": 143,
+      "reviews": 117,
+      "stars": [
+        1,
+        0,
+        2,
+        12,
+        102
+      ]
+    },
+    "raio-xxxx": {
+      "sold": 116,
+      "reviews": 106,
+      "stars": [
+        1,
+        0,
+        0,
+        7,
+        98
+      ]
+    },
+    "shark-menu": {
+      "sold": 201,
+      "reviews": 152,
+      "stars": [
+        0,
+        1,
+        1,
+        6,
+        144
+      ]
+    },
+    "spoofer-tyrex": {
+      "sold": 164,
+      "reviews": 152,
+      "stars": [
+        1,
+        0,
+        0,
+        9,
+        142
+      ]
+    },
+    "felipe-menu": {
+      "sold": 132,
+      "reviews": 112,
+      "stars": [
+        0,
+        0,
+        2,
+        8,
+        102
+      ]
+    },
+    "executor-tyrex": {
+      "sold": 218,
+      "reviews": 160,
+      "stars": [
+        0,
+        0,
+        2,
+        12,
+        146
+      ]
+    },
+    "gift-card-playstation": {
+      "sold": 247,
+      "reviews": 208,
+      "stars": [
+        1,
+        1,
+        0,
+        22,
+        184
+      ]
+    },
+    "gift-card-apple-store": {
+      "sold": 183,
+      "reviews": 162,
+      "stars": [
+        0,
+        1,
+        1,
+        18,
+        142
+      ]
+    },
+    "gift-card-free-fire": {
+      "sold": 291,
+      "reviews": 251,
+      "stars": [
+        1,
+        1,
+        0,
+        14,
+        235
+      ]
+    },
+    "gift-card-google-play": {
+      "sold": 196,
+      "reviews": 144,
+      "stars": [
+        0,
+        0,
+        2,
+        8,
+        134
+      ]
+    },
+    "gift-card-steam": {
+      "sold": 229,
+      "reviews": 168,
+      "stars": [
+        0,
+        0,
+        0,
+        17,
+        151
+      ]
+    },
+    "spotify-anual": {
+      "sold": 264,
+      "reviews": 240,
+      "stars": [
+        0,
+        0,
+        1,
+        21,
+        218
+      ]
+    },
+    "ez-8-ball-pool": {
+      "sold": 167,
+      "reviews": 128,
+      "stars": [
+        0,
+        1,
+        0,
+        12,
+        115
+      ]
+    }
+  }
+}

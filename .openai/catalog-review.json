@@ -1,0 +1,67 @@
+{
+  "source": "Purin store catalog read through the Site integration",
+  "productsReviewed": 37,
+  "variantsReviewed": 88,
+  "newProducts": [
+    "ez-8-ball-pool",
+    "spoofer-tyrex",
+    "felipe-menu",
+    "shark-menu"
+  ],
+  "priceChanges": [
+    {
+      "product": "Tyrex Rage AP Emulador",
+      "variant": "DIÁRIO",
+      "before": 4215,
+      "after": 2515
+    },
+    {
+      "product": "Tyrex Rage AP Emulador",
+      "variant": "SEMANAL",
+      "before": 7574,
+      "after": 3574
+    },
+    {
+      "product": "Tyrex Rage AP Emulador",
+      "variant": "MENSAL",
+      "before": 13985,
+      "after": 5085
+    },
+    {
+      "product": "Tyrex Rage AP Android",
+      "variant": "DIÁRIO",
+      "before": 4215,
+      "after": 2515
+    },
+    {
+      "product": "Tyrex Rage AP Android",
+      "variant": "SEMANAL",
+      "before": 7574,
+      "after": 3574
+    },
+    {
+      "product": "Tyrex Rage AP Android",
+      "variant": "MENSAL",
+      "before": 13985,
+      "after": 5085
+    },
+    {
+      "product": "Tyrex Rage AP iOS",
+      "variant": "DIÁRIO",
+      "before": 4215,
+      "after": 2515
+    },
+    {
+      "product": "Tyrex Rage AP iOS",
+      "variant": "SEMANAL",
+      "before": 7574,
+      "after": 3574
+    },
+    {
+      "product": "Tyrex Rage AP iOS",
+      "variant": "MENSAL",
+      "before": 13985,
+      "after": 5085
+    }
+  ]
+}

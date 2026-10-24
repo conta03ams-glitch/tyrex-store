@@ -1,0 +1,47 @@
+{
+  "zimo-rage-android": [
+    "/assets/galleries/zimo/aimbot.webp",
+    "/assets/galleries/zimo/silent.webp",
+    "/assets/galleries/zimo/visuals.webp"
+  ],
+  "zimo-rage-ios": [
+    "/assets/galleries/zimo/aimbot.webp",
+    "/assets/galleries/zimo/silent.webp",
+    "/assets/galleries/zimo/visuals.webp"
+  ],
+  "zimo-emulador": [
+    "/assets/galleries/zimo/aimbot.webp",
+    "/assets/galleries/zimo/silent.webp",
+    "/assets/galleries/zimo/visuals.webp"
+  ],
+  "dll-android": [
+    "/assets/galleries/dll/foto-1.webp",
+    "/assets/galleries/dll/foto-2.webp",
+    "/assets/galleries/dll/foto-3.webp",
+    "/assets/galleries/dll/foto-4.webp"
+  ],
+  "dll-emulador": [
+    "/assets/galleries/dll/foto-1.webp",
+    "/assets/galleries/dll/foto-2.webp",
+    "/assets/galleries/dll/foto-3.webp",
+    "/assets/galleries/dll/foto-4.webp"
+  ],
+  "dll-ios": [
+    "/assets/galleries/dll/foto-1.webp",
+    "/assets/galleries/dll/foto-2.webp",
+    "/assets/galleries/dll/foto-3.webp",
+    "/assets/galleries/dll/foto-4.webp"
+  ],
+  "xcheat-android": [
+    "/assets/galleries/xcheat/foto-1.webp"
+  ],
+  "xcheat-emulador": [
+    "/assets/galleries/xcheat/foto-1.webp"
+  ],
+  "xcheat-ios": [
+    "/assets/galleries/xcheat/foto-1.webp"
+  ],
+  "ez-8-ball-pool": [
+    "/assets/galleries/ez-8-ball-pool/foto-1.webp"
+  ]
+}

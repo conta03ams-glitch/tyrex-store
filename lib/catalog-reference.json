@@ -1,0 +1,182 @@
+{
+  "executor-tyrex": {
+    "price": 1000,
+    "maxPrice": 1000,
+    "count": 1
+  },
+  "skinchanger-cs2": {
+    "price": 2636,
+    "maxPrice": 4899,
+    "count": 2
+  },
+  "zimo-rage-android": {
+    "price": 3520,
+    "maxPrice": 6000,
+    "count": 3
+  },
+  "golds": {
+    "price": 2400,
+    "maxPrice": 29999,
+    "count": 6
+  },
+  "spotify-anual": {
+    "price": 2210,
+    "maxPrice": 2210,
+    "count": 1
+  },
+  "gift-card-playstation": {
+    "price": 7900,
+    "maxPrice": 26000,
+    "count": 4
+  },
+  "gift-card-apple-store": {
+    "price": 3000,
+    "maxPrice": 13500,
+    "count": 3
+  },
+  "gift-card-free-fire": {
+    "price": 3000,
+    "maxPrice": 12500,
+    "count": 3
+  },
+  "gift-card-google-play": {
+    "price": 3000,
+    "maxPrice": 20000,
+    "count": 4
+  },
+  "gift-card-steam": {
+    "price": 3000,
+    "maxPrice": 17500,
+    "count": 3
+  },
+  "conta-c-premier": {
+    "price": 4500,
+    "maxPrice": 4500,
+    "count": 1
+  },
+  "radar-web": {
+    "price": 3900,
+    "maxPrice": 6810,
+    "count": 2
+  },
+  "raio-xxxx": {
+    "price": 3512,
+    "maxPrice": 9999,
+    "count": 3
+  },
+  "tyrex-rage-ap-emulador": {
+    "price": 2515,
+    "maxPrice": 5085,
+    "count": 3
+  },
+  "tyrex-rage-ap-android": {
+    "price": 2515,
+    "maxPrice": 5085,
+    "count": 3
+  },
+  "tyrex-rage-ap-ios": {
+    "price": 2515,
+    "maxPrice": 5085,
+    "count": 3
+  },
+  "zimo-emulador": {
+    "price": 3520,
+    "maxPrice": 6000,
+    "count": 3
+  },
+  "zimo-rage-ios": {
+    "price": 3520,
+    "maxPrice": 6000,
+    "count": 3
+  },
+  "astral": {
+    "price": 6000,
+    "maxPrice": 60000,
+    "count": 2
+  },
+  "bypass-android": {
+    "price": 1510,
+    "maxPrice": 2979,
+    "count": 2
+  },
+  "bypass-emulador": {
+    "price": 1510,
+    "maxPrice": 2979,
+    "count": 2
+  },
+  "bypass-ios": {
+    "price": 1510,
+    "maxPrice": 2979,
+    "count": 2
+  },
+  "dll-android": {
+    "price": 3989,
+    "maxPrice": 3989,
+    "count": 1
+  },
+  "dll-emulador": {
+    "price": 3989,
+    "maxPrice": 3989,
+    "count": 1
+  },
+  "dll-ios": {
+    "price": 3989,
+    "maxPrice": 3989,
+    "count": 1
+  },
+  "xskinchanger-android": {
+    "price": 3989,
+    "maxPrice": 3989,
+    "count": 1
+  },
+  "xskinchanger-emulador": {
+    "price": 3989,
+    "maxPrice": 3989,
+    "count": 1
+  },
+  "xskinchanger-ios": {
+    "price": 3989,
+    "maxPrice": 3989,
+    "count": 1
+  },
+  "xcheat-android": {
+    "price": 3989,
+    "maxPrice": 5000,
+    "count": 2
+  },
+  "xcheat-emulador": {
+    "price": 3989,
+    "maxPrice": 5000,
+    "count": 2
+  },
+  "xcheat-ios": {
+    "price": 3989,
+    "maxPrice": 5000,
+    "count": 2
+  },
+  "plutonium": {
+    "price": 4990,
+    "maxPrice": 24990,
+    "count": 3
+  },
+  "ez-8-ball-pool": {
+    "price": 3741,
+    "maxPrice": 5000,
+    "count": 4
+  },
+  "spoofer-tyrex": {
+    "price": 799,
+    "maxPrice": 8910,
+    "count": 4
+  },
+  "felipe-menu": {
+    "price": 2999,
+    "maxPrice": 15000,
+    "count": 3
+  },
+  "shark-menu": {
+    "price": 2921,
+    "maxPrice": 9999,
+    "count": 3
+  }
+}

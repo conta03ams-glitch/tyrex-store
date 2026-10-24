@@ -1,0 +1,9 @@
+import {RequestBodyError,readJsonLimited} from '@/lib/request-security';
+import {getCustomer} from '@/lib/customer-auth';
+import {getDb} from '@/db';
+import {orders,support} from '@/db/schema';
+import {desc,eq} from 'drizzle-orm';
+import {config,reply,sameOrigin} from '@/lib/server';
+async function isOwner(){const u=await getCustomer();return !!u&&!!config().STORE_OWNER_USER_ID&&u.userId===config().STORE_OWNER_USER_ID}
+export async function GET(){if(!await isOwner())return reply({error:'Acesso restrito ao proprietário configurado.'},403);const db=getDb();const recent=await db.select({id:orders.id,email:orders.email,name:orders.name,items:orders.items,total:orders.total,status:orders.status,fulfillment:orders.fulfillment,createdAt:orders.createdAt,environment:orders.environment}).from(orders).orderBy(desc(orders.createdAt)).limit(100);const messages=await db.select().from(support).orderBy(desc(support.createdAt)).limit(50);return reply({orders:recent.map(o=>({...o,items:JSON.parse(o.items)})),messages});}
+export async function PATCH(req:Request){if(!sameOrigin(req)||!await isOwner())return reply({error:'Acesso restrito.'},403);try{const b=await readJsonLimited(req,4096) as any;if(!['aguardando','preparando','entregue'].includes(b.fulfillment))return reply({error:'Status inválido.'},400);const db=getDb(),o=(await db.select().from(orders).where(eq(orders.id,String(b.id))).limit(1))[0];if(!o||o.status!=='paid')return reply({error:'A entrega só pode ser registrada após confirmação do pagamento.'},409);await db.update(orders).set({fulfillment:b.fulfillment,updatedAt:new Date().toISOString()}).where(eq(orders.id,o.id));return reply({ok:true});}catch(error){if(error instanceof RequestBodyError)return reply({error:error.message},error.status);return reply({error:'Não foi possível atualizar.'},503)}}

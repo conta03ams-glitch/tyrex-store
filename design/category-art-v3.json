@@ -1,0 +1,23 @@
+{
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "slug": "standoff-2",
+      "asset": "/assets/categories/v3/standoff-2.webp",
+      "sha256": "9a247c3e7a76d14ee5b89302ea477ea41b38d7c630df29dcf5d68106c431437c",
+      "pixelVerified": true,
+      "width": 1536,
+      "height": 1024,
+      "direction": "Standoff 2 red-headband rebel and Sandstone"
+    },
+    {
+      "slug": "fivem",
+      "asset": "/assets/categories/v3/fivem.webp",
+      "sha256": "9f3ec9d95266c5211af649a776347f203b2463de8095a054b050847e7d665584",
+      "pixelVerified": true,
+      "width": 1536,
+      "height": 1024,
+      "direction": "GTA V Franklin, Los Santos and illustrated loading-screen style"
+    }
+  ]
+}

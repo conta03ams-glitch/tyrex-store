@@ -1,0 +1,19 @@
+'use client';
+import {useState} from 'react';
+import {ShoppingBag,ArrowRight,ArrowLeft,RefreshCw} from 'lucide-react';
+import {useStore,CartItems} from './store';
+import {money} from '@/lib/catalog';
+import {cartLimit,cartProduct,replacementVariant,lineKey} from '@/lib/cart';
+import {DISCORD_URL} from '@/lib/community';
+export function CartPage(){
+ const {cart,products,hydrated,catalogLoaded,connected,repair,change,refreshCatalog}=useStore();
+ const issues=cart.filter(line=>{const p=cartProduct(line,products),v=p?.variants.find(v=>v.id===line.variantId);return !p||!p.live||!v||v.price!==line.price||line.quantity>cartLimit(p,v)});
+ const total=cart.reduce((sum,line)=>sum+line.price*line.quantity,0);
+ return <main className="container cart-page"><a className="cart-back" href="/catalogo"><ArrowLeft size={15}/> Continuar comprando</a><div className="cart-heading"><span className="eyebrow">TYREX STORE</span><h1>Meu carrinho</h1><p>{hydrated?`${cart.reduce((s,l)=>s+l.quantity,0)} itens selecionados`:'Carregando seus produtos…'}</p></div>{hydrated&&cart.length>0?<div className="cart-page-grid"><section id="cart-review" className="cart-page-products" aria-label="Produtos no carrinho"><CartItems renderReview={line=>catalogLoaded&&connected&&issues.some(issue=>lineKey(issue)===lineKey(line))?<CartLineReview line={line}/>:null}/>{catalogLoaded&&!connected&&<div className="cart-sync-note" role="status"><span>Não foi possível consultar o catálogo. Seu carrinho está salvo.</span><button className="text-button" onClick={()=>refreshCatalog()}><RefreshCw size={14}/>Tentar novamente</button></div>}</section><aside className="cart-summary"><h2>Resumo do pedido</h2><div><span>Produtos</span><strong>{money(total)}</strong></div><div className="cart-summary-total"><span>Total</span><strong>{money(total)}</strong></div>{catalogLoaded&&connected&&issues.length===0?<a className="btn primary" href="/checkout">Finalizar compra <ArrowRight size={17}/></a>:!catalogLoaded?<button className="btn primary" disabled>Conferindo produtos…</button>:connected?<a className="btn primary" href="#cart-review">Revisar itens do carrinho</a>:<button className="btn primary" onClick={()=>refreshCatalog()}>Tentar novamente</button>}<p>Você pode comprar sem fazer login.</p><a className="cart-support" href={DISCORD_URL} target="_blank" rel="noreferrer">Precisa de ajuda? Fale no Discord</a></aside></div>:hydrated?<div className="cart-empty"><ShoppingBag size={42}/><h2>Seu carrinho está vazio</h2><p>Escolha um produto para começar.</p><a className="btn primary" href="/catalogo">Ver produtos <ArrowRight size={16}/></a></div>:null}</main>;
+}
+
+function CartLineReview({line}:{line:import('@/lib/cart').CartLine}){
+ const {products,repair,change}=useStore(),p=cartProduct(line,products);const [choice,setChoice]=useState('');
+ const suggested=p?replacementVariant(line,p):undefined,selected=p?.variants.find(v=>v.id===(choice||suggested?.id)),max=p&&selected?cartLimit(p,selected):0,key=lineKey(line);
+ return <div className="cart-inline-review">{p?.live?<><label>Atualizar opção<select className="field" value={selected?.id||''} onChange={e=>setChoice(e.target.value)} aria-label={'Atualizar opção de '+line.name}><option value="">Escolha uma opção</option>{p.variants.map(v=><option key={v.id} value={v.id} disabled={cartLimit(p,v)===0}>{v.name} · {money(v.price)}{cartLimit(p,v)===0?' · Esgotado':''}</option>)}</select></label>{selected&&max>0&&line.quantity>max&&<small>Quantidade disponível: {max}. A atualização ajustará sua seleção.</small>}<button className="btn secondary" disabled={!selected||max===0} onClick={()=>{if(selected)repair(key,p,selected)}}>Confirmar atualização</button></>:<span>{p?.unavailableReason==='inactive'?'Produto desativado na loja.':'Produto sem opção de venda vinculada.'}</span>}<button className="text-button" onClick={()=>change(key,0)}>Remover item</button></div>;
+}

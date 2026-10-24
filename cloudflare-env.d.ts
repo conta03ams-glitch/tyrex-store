@@ -1,0 +1,12 @@
+declare namespace Cloudflare {
+ interface Env {
+  DELIVERY_ENCRYPTION_KEY?:string;
+  FIREBASE_GOOGLE_ENABLED?:string; FIREBASE_API_KEY?:string; FIREBASE_AUTH_DOMAIN?:string;
+  FIREBASE_PROJECT_ID?:string; FIREBASE_APP_ID?:string;
+  DB?: D1Database; BUCKET?: R2Bucket;
+  GA4_MEASUREMENT_ID?:string; GA4_ENABLED?:string;
+  PURINCASH_API_KEY?: string; PURINCASH_WEBHOOK_SECRET?: string;
+  PURINCASH_WEBHOOK_ENABLED?: string; STORE_CHECKOUT_ENABLED?:string;
+  STORE_OWNER_USER_ID?:string; STORE_DISCORD_URL?:string; STORE_SUPPORT_EMAIL?:string;
+ }
+}

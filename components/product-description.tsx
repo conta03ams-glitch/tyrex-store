@@ -1,0 +1,4 @@
+import {Fragment} from 'react';
+import {websiteDescription} from '@/lib/description-format.mjs';
+function inline(text:string){return text.split(/(\*{1,3}[^*]+\*{1,3}|\[[^\]]+\]\(https?:\/\/[^\s)]+\))/g).map((part,i)=>{const link=part.match(/^\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)$/);if(link)return <a key={i} href={link[2]} target="_blank" rel="noreferrer">{link[1]}</a>;if(/^\*\*/.test(part))return <strong key={i}>{part.replace(/^\*+|\*+$/g,'')}</strong>;if(/^\*/.test(part))return <em key={i}>{part.replace(/^\*+|\*+$/g,'')}</em>;return <Fragment key={i}>{part}</Fragment>;});}
+export function ProductDescription({text}:{text:string}){const lines=websiteDescription(text).split('\n');return <div className="purin-description">{lines.filter(Boolean).map((line,i)=>/^#{1,6}\s+/.test(line)?<h3 key={i}>{inline(line.replace(/^#{1,6}\s+/,''))}</h3>:<p key={i}>{inline(line)}</p>)}</div>;}

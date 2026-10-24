@@ -1,0 +1,150 @@
+{
+ "spotify-anual": {
+  "id": "6ac2b183782c49478689855d",
+  "publicId": "prod_471b86e1b9e0e2e3"
+ },
+ "script-robux": {
+  "id": "6ad92bd140b274d1ac186eb2",
+  "publicId": "prod_a15fa3cf5ff27ba1"
+ },
+ "executor-tyrex": {
+  "id": "6ad92a5140b274d1ac174dc3",
+  "publicId": "prod_5ba2381fc71d1f45"
+ },
+ "gift-card-playstation": {
+  "id": "6ac2b444782c4947868c79a7",
+  "publicId": "prod_eb9129fe26eeeb3f"
+ },
+ "gift-card-apple-store": {
+  "id": "6ac2c264782c4947869a6c06",
+  "publicId": "prod_d4974f2f91d5cf4a"
+ },
+ "gift-card": {
+  "id": "6ac2c2b8782c4947869acdec",
+  "publicId": "prod_aada22bf3720fabc"
+ },
+ "gift-card-google-play": {
+  "id": "6ac2b6e9782c4947868f1901",
+  "publicId": "prod_273b8c84772b7ea9"
+ },
+ "gift-card-steam": {
+  "id": "6ac2b81e782c494786904990",
+  "publicId": "prod_9658a52e109c1064"
+ },
+ "conta-c-premier": {
+  "id": "6acc0b59a1176b7c4110f145",
+  "publicId": "prod_c8b9a0022edf110a"
+ },
+ "radar-web": {
+  "id": "6acbfd64a1176b7c41057dfd",
+  "publicId": "prod_33ab2ae8c4d5544f"
+ },
+ "skinchanger": {
+  "id": "6acc021aa1176b7c41093ad4",
+  "publicId": "prod_4e7d30b8d79d8182"
+ },
+ "raio-xxxx": {
+  "id": "6acbf9aca1176b7c4102ab02",
+  "publicId": "prod_e65b222f4a85d4b9"
+ },
+ "tyrex-rage-ap-emulador": {
+  "id": "6acc131fa1176b7c4117542a",
+  "publicId": "prod_a8b08d33cdcda06e"
+ },
+ "tyrex-rage-ap-android": {
+  "id": "6acc115ba1176b7c411600e3",
+  "publicId": "prod_89959b6c767de9c0"
+ },
+ "tyrex-rage-ap-ios": {
+  "id": "6acc12dba1176b7c411724fb",
+  "publicId": "prod_364e3baf048c584c"
+ },
+ "zimo-emulador": {
+  "id": "6acbc881a1176b7c41ddf925",
+  "publicId": "prod_1a245a93ef53dc5e"
+ },
+ "zimo-rage-android": {
+  "id": "6acc202fa1176b7c41206116",
+  "publicId": "prod_22eb010f646e2ae4"
+ },
+ "zimo-rage-ios": {
+  "id": "6acc2043a1176b7c41206f5d",
+  "publicId": "prod_e3690ca844f456a0"
+ },
+ "astral": {
+  "id": "6a9eed8ba7b334c8edea9446",
+  "publicId": "prod_91a5143eab3cc55f"
+ },
+ "bypass-android": {
+  "id": "6a9eedd7a7b334c8edeab9e0",
+  "publicId": "prod_efc3a477ecdcb75a"
+ },
+ "bypass-emulador": {
+  "id": "6a9eee73a7b334c8edeb0e6b",
+  "publicId": "prod_b65483ad6b41a185"
+ },
+ "bypass-ios": {
+  "id": "6a9eee71a7b334c8edeb0dde",
+  "publicId": "prod_8772b5159053b9f8"
+ },
+ "dll-android": {
+  "id": "6a9eeeaba7b334c8edeb2e61",
+  "publicId": "prod_0444472e532e5673"
+ },
+ "dll-emulador": {
+  "id": "6a9eef2ba7b334c8edeb9328",
+  "publicId": "prod_0bf0d397fda9c880"
+ },
+ "dll-ios": {
+  "id": "6a9eef16a7b334c8edeb7d13",
+  "publicId": "prod_a585b6d3e5fd1d91"
+ },
+ "golds": {
+  "id": "6a9eefa4a7b334c8edebcf19",
+  "publicId": "prod_747314f6506ce698"
+ },
+ "xskinchanger-android": {
+  "id": "6a9eef45a7b334c8edeb9df6",
+  "publicId": "prod_c167aaa3cf30f9f9"
+ },
+ "xskinchanger-emulador": {
+  "id": "6a9eef98a7b334c8edebc7fb",
+  "publicId": "prod_9c4cb69b64c08e53"
+ },
+ "xskinchanger-ios": {
+  "id": "6a9eef8da7b334c8edebc2be",
+  "publicId": "prod_ccbe2604eebb6e99"
+ },
+ "xcheat-android": {
+  "id": "6a9eec26a7b334c8ede9c1c8",
+  "publicId": "prod_866e1afcecdc4d59"
+ },
+ "xcheat-emulador": {
+  "id": "6a9eed39a7b334c8edea621a",
+  "publicId": "prod_931f57dcd4985b5a"
+ },
+ "xcheat-ios": {
+  "id": "6a9eed1da7b334c8edea4f35",
+  "publicId": "prod_605e4f863d8fa5a9"
+ },
+ "plutonium": {
+  "id": "6aa6b35cf314cc391a1f4998",
+  "publicId": "prod_8bf3b62addce27e1"
+ },
+ "ez-8-ball-pool": {
+  "id": "6adb6b7e5ca4d8b7e13fdfc4",
+  "publicId": "prod_bb290b947c2bcc2f"
+ },
+ "spoofer-tyrex": {
+  "id": "6adb67365ca4d8b7e13cfc1d",
+  "publicId": "prod_3c11c54225092706"
+ },
+ "felipe-menu": {
+  "id": "6adb72d15ca4d8b7e144f278",
+  "publicId": "prod_07538a762e38cfe9"
+ },
+ "shark-menu": {
+  "id": "6adabcc95a7aae21dd5e5744",
+  "publicId": "prod_2a2b8af1b088b2b2"
+ }
+}

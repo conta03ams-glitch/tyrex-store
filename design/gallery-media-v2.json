@@ -1,0 +1,23 @@
+{
+  "videos": [
+    {
+      "asset": "/assets/galleries/xcheat/video-1.mp4",
+      "videoAudioPacketsPreserved": true,
+      "autoplay": false,
+      "preload": "none"
+    },
+    {
+      "asset": "/assets/galleries/xcheat/video-2.mp4",
+      "videoAudioPacketsPreserved": true,
+      "autoplay": false,
+      "preload": "none"
+    },
+    {
+      "asset": "/assets/galleries/xskinchanger/demonstracao.mp4",
+      "videoAudioPacketsPreserved": true,
+      "autoplay": false,
+      "preload": "none"
+    }
+  ],
+  "photos": "Owner supplied; lossless WebP conversion verified in image-optimization.json."
+}

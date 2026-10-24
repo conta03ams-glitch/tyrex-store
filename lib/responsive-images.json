@@ -1,0 +1,1082 @@
+{
+  "/assets/brand/discord-palace.webp": [
+    {
+      "src": "/assets/responsive/5424a905a60e-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/5424a905a60e-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/5424a905a60e-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/brand/discord-palace.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/brand/hero-wishes.webp": [
+    {
+      "src": "/assets/responsive/ebb2e6c9bab6-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/ebb2e6c9bab6-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/ebb2e6c9bab6-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/brand/hero-wishes.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/brand/wish-lamp.webp": [
+    {
+      "src": "/assets/responsive/dbb8df8dfe4f-96.webp",
+      "width": 96
+    },
+    {
+      "src": "/assets/responsive/dbb8df8dfe4f-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/dbb8df8dfe4f-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/dbb8df8dfe4f-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/brand/wish-lamp.webp",
+      "width": 1254
+    }
+  ],
+  "/assets/categories/v2/free-fire.webp": [
+    {
+      "src": "/assets/responsive/3aca6cfe3334-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/3aca6cfe3334-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/3aca6cfe3334-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/categories/v2/free-fire.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/categories/v2/valorant.webp": [
+    {
+      "src": "/assets/responsive/191ff8b4763f-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/191ff8b4763f-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/191ff8b4763f-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/categories/v2/valorant.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/categories/v3/fivem.webp": [
+    {
+      "src": "/assets/responsive/0e67515cbbc0-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/0e67515cbbc0-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/0e67515cbbc0-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/categories/v3/fivem.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/categories/v3/standoff-2.webp": [
+    {
+      "src": "/assets/responsive/66e1144b2ba0-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/66e1144b2ba0-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/66e1144b2ba0-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/categories/v3/standoff-2.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/galleries/dll/foto-1.webp": [
+    {
+      "src": "/assets/responsive/cdc8f6258045-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/cdc8f6258045-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/cdc8f6258045-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/dll/foto-1.webp",
+      "width": 1600
+    }
+  ],
+  "/assets/galleries/dll/foto-2.webp": [
+    {
+      "src": "/assets/responsive/730ce1ddcdf8-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/730ce1ddcdf8-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/730ce1ddcdf8-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/dll/foto-2.webp",
+      "width": 1920
+    }
+  ],
+  "/assets/galleries/dll/foto-3.webp": [
+    {
+      "src": "/assets/responsive/3e3dd6028b9a-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/3e3dd6028b9a-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/3e3dd6028b9a-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/dll/foto-3.webp",
+      "width": 1920
+    }
+  ],
+  "/assets/galleries/dll/foto-4.webp": [
+    {
+      "src": "/assets/responsive/20e311f85d73-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/20e311f85d73-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/20e311f85d73-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/dll/foto-4.webp",
+      "width": 1600
+    }
+  ],
+  "/assets/galleries/ez-8-ball-pool/foto-1.webp": [
+    {
+      "src": "/assets/responsive/2ab7a1553e3e-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/2ab7a1553e3e-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/2ab7a1553e3e-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/ez-8-ball-pool/foto-1.webp",
+      "width": 2048
+    }
+  ],
+  "/assets/galleries/xcheat/foto-1.webp": [
+    {
+      "src": "/assets/responsive/899b4533b454-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/899b4533b454-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/899b4533b454-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/xcheat/foto-1.webp",
+      "width": 1600
+    }
+  ],
+  "/assets/galleries/xcheat/video-1-poster.webp": [
+    {
+      "src": "/assets/responsive/7f34334c9ffa-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/7f34334c9ffa-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/galleries/xcheat/video-1-poster.webp",
+      "width": 848
+    }
+  ],
+  "/assets/galleries/xcheat/video-2-poster.webp": [
+    {
+      "src": "/assets/responsive/916d6141cb4c-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/916d6141cb4c-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/916d6141cb4c-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/xcheat/video-2-poster.webp",
+      "width": 1280
+    }
+  ],
+  "/assets/galleries/xskinchanger/poster.webp": [
+    {
+      "src": "/assets/responsive/1c8ec3dd0fd6-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/1c8ec3dd0fd6-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/1c8ec3dd0fd6-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/xskinchanger/poster.webp",
+      "width": 1572
+    }
+  ],
+  "/assets/galleries/zimo/aimbot.webp": [
+    {
+      "src": "/assets/responsive/2b05bd18f0a9-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/2b05bd18f0a9-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/2b05bd18f0a9-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/zimo/aimbot.webp",
+      "width": 1586
+    }
+  ],
+  "/assets/galleries/zimo/silent.webp": [
+    {
+      "src": "/assets/responsive/e74ea83a6d0b-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/e74ea83a6d0b-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/e74ea83a6d0b-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/zimo/silent.webp",
+      "width": 1586
+    }
+  ],
+  "/assets/galleries/zimo/visuals.webp": [
+    {
+      "src": "/assets/responsive/cb75db59aa53-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/cb75db59aa53-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/cb75db59aa53-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/galleries/zimo/visuals.webp",
+      "width": 1586
+    }
+  ],
+  "/assets/gift-cards-promo.webp": [
+    {
+      "src": "/assets/responsive/1ebdb3b0ce96-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/1ebdb3b0ce96-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/1ebdb3b0ce96-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/gift-cards-promo.webp",
+      "width": 1254
+    }
+  ],
+  "/assets/products/v4/conta-c-premier.webp": [
+    {
+      "src": "/assets/responsive/e353c133a05b-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/e353c133a05b-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/e353c133a05b-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/conta-c-premier.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/executor-tyrex.webp": [
+    {
+      "src": "/assets/responsive/ebc780165721-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/ebc780165721-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/ebc780165721-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/executor-tyrex.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/ez-8-ball-pool.webp": [
+    {
+      "src": "/assets/responsive/facb0acefd2c-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/facb0acefd2c-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/facb0acefd2c-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/ez-8-ball-pool.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/gift-card-apple-store.webp": [
+    {
+      "src": "/assets/responsive/2c949b107516-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/2c949b107516-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/2c949b107516-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/gift-card-apple-store.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/gift-card-free-fire.webp": [
+    {
+      "src": "/assets/responsive/17790f5d0766-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/17790f5d0766-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/17790f5d0766-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/gift-card-free-fire.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/gift-card-google-play.webp": [
+    {
+      "src": "/assets/responsive/26cce24948c5-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/26cce24948c5-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/26cce24948c5-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/gift-card-google-play.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/gift-card-playstation.webp": [
+    {
+      "src": "/assets/responsive/176c9b169b94-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/176c9b169b94-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/176c9b169b94-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/gift-card-playstation.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/gift-card-steam.webp": [
+    {
+      "src": "/assets/responsive/be246f5e46e2-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/be246f5e46e2-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/be246f5e46e2-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/gift-card-steam.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/script-robux.webp": [
+    {
+      "src": "/assets/responsive/34a89878f1fe-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/34a89878f1fe-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/34a89878f1fe-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/script-robux.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/skinchanger-cs2.webp": [
+    {
+      "src": "/assets/responsive/4833b9308923-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/4833b9308923-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/4833b9308923-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/skinchanger-cs2.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v4/spotify-anual.webp": [
+    {
+      "src": "/assets/responsive/da2c6a7bd7a8-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/da2c6a7bd7a8-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/da2c6a7bd7a8-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v4/spotify-anual.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/astral.webp": [
+    {
+      "src": "/assets/responsive/eb20c0787224-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/eb20c0787224-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/eb20c0787224-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/astral.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/bypass-android.webp": [
+    {
+      "src": "/assets/responsive/ce76f9428ee2-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/ce76f9428ee2-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/ce76f9428ee2-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/bypass-android.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/bypass-emulador.webp": [
+    {
+      "src": "/assets/responsive/db8a8ea8aab3-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/db8a8ea8aab3-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/db8a8ea8aab3-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/bypass-emulador.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/bypass-ios.webp": [
+    {
+      "src": "/assets/responsive/af1ebcbf9b49-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/af1ebcbf9b49-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/af1ebcbf9b49-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/bypass-ios.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/dll-android.webp": [
+    {
+      "src": "/assets/responsive/a209ef01de7e-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/a209ef01de7e-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/a209ef01de7e-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/dll-android.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/dll-emulador.webp": [
+    {
+      "src": "/assets/responsive/2f893cc9d10b-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/2f893cc9d10b-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/2f893cc9d10b-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/dll-emulador.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/dll-ios.webp": [
+    {
+      "src": "/assets/responsive/952415e7ddb8-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/952415e7ddb8-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/952415e7ddb8-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/dll-ios.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/executor-tyrex.webp": [
+    {
+      "src": "/assets/responsive/1a8c7f40b890-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/1a8c7f40b890-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/1a8c7f40b890-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/executor-tyrex.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/ez-8-ball-pool.webp": [
+    {
+      "src": "/assets/responsive/081a5c98854c-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/081a5c98854c-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/081a5c98854c-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/ez-8-ball-pool.webp",
+      "width": 1672
+    }
+  ],
+  "/assets/products/v5/felipe-menu.webp": [
+    {
+      "src": "/assets/responsive/c33513504c3e-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/c33513504c3e-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/c33513504c3e-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/felipe-menu.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/plutonium.webp": [
+    {
+      "src": "/assets/responsive/8caa02ab31de-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/8caa02ab31de-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/8caa02ab31de-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/plutonium.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/radar-web.webp": [
+    {
+      "src": "/assets/responsive/9d70471a97e4-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/9d70471a97e4-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/9d70471a97e4-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/radar-web.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/raio-xxxx.webp": [
+    {
+      "src": "/assets/responsive/42db65746609-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/42db65746609-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/42db65746609-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/raio-xxxx.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/shark-menu.webp": [
+    {
+      "src": "/assets/responsive/b8d111275c43-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/b8d111275c43-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/b8d111275c43-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/shark-menu.webp",
+      "width": 1920
+    }
+  ],
+  "/assets/products/v5/skinchanger-cs2.webp": [
+    {
+      "src": "/assets/responsive/331e76c84b21-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/331e76c84b21-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/331e76c84b21-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/skinchanger-cs2.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/spoofer-tyrex.webp": [
+    {
+      "src": "/assets/responsive/e06d8061a6f7-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/e06d8061a6f7-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/e06d8061a6f7-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/spoofer-tyrex.webp",
+      "width": 1672
+    }
+  ],
+  "/assets/products/v5/tyrex-rage-ap-android.webp": [
+    {
+      "src": "/assets/responsive/c04bda28d7b1-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/c04bda28d7b1-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/c04bda28d7b1-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/tyrex-rage-ap-android.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/tyrex-rage-ap-emulador.webp": [
+    {
+      "src": "/assets/responsive/931466f51489-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/931466f51489-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/931466f51489-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/tyrex-rage-ap-emulador.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/tyrex-rage-ap-ios.webp": [
+    {
+      "src": "/assets/responsive/ea98bbfa6956-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/ea98bbfa6956-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/ea98bbfa6956-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/tyrex-rage-ap-ios.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/xcheat-android.webp": [
+    {
+      "src": "/assets/responsive/d769f95cd736-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/d769f95cd736-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/d769f95cd736-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/xcheat-android.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/xcheat-emulador.webp": [
+    {
+      "src": "/assets/responsive/8292bbaee25c-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/8292bbaee25c-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/8292bbaee25c-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/xcheat-emulador.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/xcheat-ios.webp": [
+    {
+      "src": "/assets/responsive/d33ddf09e5c1-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/d33ddf09e5c1-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/d33ddf09e5c1-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/xcheat-ios.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/xskinchanger-android.webp": [
+    {
+      "src": "/assets/responsive/ac84575b51e7-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/ac84575b51e7-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/ac84575b51e7-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/xskinchanger-android.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/xskinchanger-emulador.webp": [
+    {
+      "src": "/assets/responsive/d90cbcc63337-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/d90cbcc63337-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/d90cbcc63337-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/xskinchanger-emulador.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/xskinchanger-ios.webp": [
+    {
+      "src": "/assets/responsive/754eced2a022-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/754eced2a022-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/754eced2a022-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/xskinchanger-ios.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/zimo-emulador.webp": [
+    {
+      "src": "/assets/responsive/9fac925b0a28-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/9fac925b0a28-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/9fac925b0a28-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/zimo-emulador.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/zimo-rage-android.webp": [
+    {
+      "src": "/assets/responsive/8fbdda2ce3c2-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/8fbdda2ce3c2-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/8fbdda2ce3c2-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/zimo-rage-android.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v5/zimo-rage-ios.webp": [
+    {
+      "src": "/assets/responsive/7a00d7937235-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/7a00d7937235-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/7a00d7937235-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v5/zimo-rage-ios.webp",
+      "width": 1536
+    }
+  ],
+  "/assets/products/v6/golds.webp": [
+    {
+      "src": "/assets/responsive/61eaf3966a2e-320.webp",
+      "width": 320
+    },
+    {
+      "src": "/assets/responsive/61eaf3966a2e-640.webp",
+      "width": 640
+    },
+    {
+      "src": "/assets/responsive/61eaf3966a2e-960.webp",
+      "width": 960
+    },
+    {
+      "src": "/assets/products/v6/golds.webp",
+      "width": 1536
+    }
+  ]
+}

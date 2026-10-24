@@ -1,0 +1,59 @@
+{
+  "xcheat-android": [
+    {
+      "src": "/assets/galleries/xcheat/video-1.mp4",
+      "poster": "/assets/galleries/xcheat/video-1-poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XCheat 1"
+    },
+    {
+      "src": "/assets/galleries/xcheat/video-2.mp4",
+      "poster": "/assets/galleries/xcheat/video-2-poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XCheat 2"
+    }
+  ],
+  "xcheat-emulador": [
+    {
+      "src": "/assets/galleries/xcheat/video-1.mp4",
+      "poster": "/assets/galleries/xcheat/video-1-poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XCheat 1"
+    },
+    {
+      "src": "/assets/galleries/xcheat/video-2.mp4",
+      "poster": "/assets/galleries/xcheat/video-2-poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XCheat 2"
+    }
+  ],
+  "xcheat-ios": [
+    {
+      "src": "/assets/galleries/xcheat/video-1.mp4",
+      "poster": "/assets/galleries/xcheat/video-1-poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XCheat 1"
+    },
+    {
+      "src": "/assets/galleries/xcheat/video-2.mp4",
+      "poster": "/assets/galleries/xcheat/video-2-poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XCheat 2"
+    }
+  ],
+  "xskinchanger-android": [
+    {
+      "src": "/assets/galleries/xskinchanger/demonstracao.mp4",
+      "poster": "/assets/galleries/xskinchanger/poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XSkinChanger Standoff 2"
+    }
+  ],
+  "xskinchanger-ios": [
+    {
+      "src": "/assets/galleries/xskinchanger/demonstracao.mp4",
+      "poster": "/assets/galleries/xskinchanger/poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XSkinChanger Standoff 2"
+    }
+  ],
+  "xskinchanger-emulador": [
+    {
+      "src": "/assets/galleries/xskinchanger/demonstracao.mp4",
+      "poster": "/assets/galleries/xskinchanger/poster.webp",
+      "title": "Demonstra\u00e7\u00e3o XSkinChanger Standoff 2"
+    }
+  ]
+}
